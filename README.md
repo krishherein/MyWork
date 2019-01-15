@@ -1,2 +1,2 @@
 # MyWork
-This is a repositiry of all my Studies and research work.
+This is a repositiry of all my Studies and Project work.
